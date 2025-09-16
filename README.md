@@ -1,6 +1,6 @@
 # MGA-VQA: Multi-Modal Graph-Augmented Visual Question Answering
 
-![MGA-VQA Architecture](img/arc.png)
+![MGA-VQA Architecture](img/Arc.png)
 
 A comprehensive PyTorch implementation of the Multi-Modal Graph-Augmented Visual Question Answering (MGA-VQA) framework for document understanding and visual question answering tasks. **Built with Gemma-3-8B backbone** and featuring comprehensive baseline comparisons with 13+ state-of-the-art LLMs.
 
